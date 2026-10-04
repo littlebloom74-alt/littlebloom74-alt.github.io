@@ -15,3 +15,4 @@ p,li{color:var(--fg)}
 .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 22px;margin:20px 0}
 a{color:var(--accent)}
 footer{margin-top:48px;padding-top:16px;border-top:1px solid var(--line);color:var(--muted);font-size:14px}
+.yt{display:inline-block;background:#ff0033;color:#fff;text-decoration:none;font-weight:600;padding:8px 14px;border-radius:999px}
